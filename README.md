@@ -3,7 +3,7 @@ Movie jQuery info
 -Daniel Väkiparta
 
 ## Demo link:
-Access my site at [github.com](https://github.com/Moccavelli/Project-3-jQuery.git)
+Access my site at [github.com](https://github.com/Moccavelli/Project-3-jQuery.git) and [Netlify](https://movieinfoquery.netlify.app/)
 
 ## How was the workload divided
 Self-made project.
@@ -26,7 +26,7 @@ Movieinfo is an app that displays the daily ongoing movies in every Finnkino the
 I used the following technologies: `html`, `css`, `jQuery`, `AJAX`, `Bootstrap`.
 
 ## Setup
-- download all the files and open index.html in your browser or visit in Netlify
+- download all the files and open index.html in your browser or visit in [Netlify](https://movieinfoquery.netlify.app/)
 
 ## Status
 Movie jQuery info is finished for the moment.
